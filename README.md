@@ -1,7 +1,7 @@
 <div align="center">
   <!-- GIF de Banner -->
   <h1>Olá, eu sou o Lacaze! 👋</h1>
-  <p>• Estudante de ADS | Desenvolvedor Backend em evolução •</p>
+  <p>• Estudante de ADS | Desenvolvedor Backend e Data Analyst em evolução •</p>
   <img src="./gifPorDoSol.gif" width="100%" height="100px" />
 </div>
 
